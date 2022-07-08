@@ -22,4 +22,4 @@ In order to utilize the state machine, respective eventer and eventoid libraries
 
 The following is a State machine diagram that showcases the different states and events that switch between the states in the program:
 
-![State Machine Diagram](/main/StateDiagram.png)
+![State Machine Diagram](main/StateDiagram.png)

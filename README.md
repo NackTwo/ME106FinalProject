@@ -6,6 +6,8 @@ SJSU ME106 Fundamentals of Mechatronics Final Project by Nicholas Lee, Michael K
 
 Aim of the project is to create an autonomous smart water dispenser that detects the presence of a vessel and fills it up to a user-specified amount.
 
+Program is written in MicroPython for the Raspberry Pi Pico on the Thonny IDE.
+
 The project uses the following components to achieve this:
 
 * Raspberry Pi Pico Microcontroller
